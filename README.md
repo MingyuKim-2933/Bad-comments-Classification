@@ -6,4 +6,4 @@
 
 사용언어 : ```python```
 
-환경 : python=3.7, pytorch=1.7.0
+환경 : python=3.7, pytorch=1.7.0, konlpy(https://konlpy-ko.readthedocs.io/ko/v0.4.3/)
